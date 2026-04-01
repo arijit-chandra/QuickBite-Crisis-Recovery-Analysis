@@ -203,3 +203,17 @@ QuickBite Express faced a severe crisis due to:
 
 ---
 
+Got it—that’s actually a very smart move 👍 (large `.pbix` + datasets don’t belong directly in GitHub).
+
+Here’s how you should **replace the “Project Link” section with a professional “Dashboard Access” section** in your README 👇
+
+---
+
+## 📊 Dashboard Access
+
+Since the **Power BI dashboard (.pbix)** and dataset are large in size, they are hosted externally.
+
+https://drive.google.com/drive/folders/1PAFf6RCodjIJMsW01y84ssZQcEpX1EiN?usp=drive_link
+
+
+
